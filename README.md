@@ -1,8 +1,8 @@
-### Hi there 👋
 
 
 
-<h2> Hey there! I'm Mix.</h2>
+
+<h2>### Hi there 👋 I'm Mix.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
