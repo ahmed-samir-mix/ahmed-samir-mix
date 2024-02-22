@@ -31,7 +31,6 @@ I'm  an Embedded Software engineer whose concerned and passionated about arm mic
 - 🔧 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![stm cude ide]([https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255](https://www.google.com/search?q=stm32+cube+ide+logo+&tbm=isch&ved=2ahUKEwjerKHm7b-EAxUFTaQEHbV2DTAQ2-cCegQIABAA&oq=stm32+cube+ide+logo+&gs_lp=EgNpbWciFHN0bTMyIGN1YmUgaWRlIGxvZ28gMgQQIxgnSMoXUPEGWKsScAB4AJABAJgBpAGgAd8FqgEDMC41uAEDyAEA-AEBigILZ3dzLXdpei1pbWeIBgE&sclient=img&ei=F7jXZZ7FLYWakdUPte21gAM&bih=738&biw=1536#imgrc=QbrjhpgTF4YsqM)https://www.google.com/search?q=stm32+cube+ide+logo+&tbm=isch&ved=2ahUKEwjerKHm7b-EAxUFTaQEHbV2DTAQ2-cCegQIABAA&oq=stm32+cube+ide+logo+&gs_lp=EgNpbWciFHN0bTMyIGN1YmUgaWRlIGxvZ28gMgQQIxgnSMoXUPEGWKsScAB4AJABAJgBpAGgAd8FqgEDMC41uAEDyAEA-AEBigILZ3dzLXdpei1pbWeIBgE&sclient=img&ei=F7jXZZ7FLYWakdUPte21gAM&bih=738&biw=1536#imgrc=QbrjhpgTF4YsqM)
 
 
   
