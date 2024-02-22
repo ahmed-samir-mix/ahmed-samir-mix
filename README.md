@@ -16,10 +16,11 @@ I'm  an Embedded Software engineer whose concerned and passionated about arm mic
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
 
+
 - 💻 &nbsp;
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 - ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
