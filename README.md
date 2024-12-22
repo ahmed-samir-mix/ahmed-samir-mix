@@ -10,7 +10,7 @@ I'm  an Embedded Software engineer whose concerned and passionated about arm mic
 
 - 🎓 &nbsp; Graduated From : Faculty of Enineering (Mechanical department) -M.T.C.
 - 💼 &nbsp; Working as an Embedded Software Engineer .
-- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux . 
+- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and motor control (BLDC , PMSM) . 
 
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
